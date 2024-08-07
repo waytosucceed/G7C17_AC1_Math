@@ -1,0 +1,32 @@
+[
+  {
+      "question": "Are the given angles ∠1 and ∠2 in the figure adjacent?",
+      "options": ["Yes", "No"],
+      "correct": 1,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+      "question": "Are the given angles ∠1 and ∠2 in the figure adjacent?",
+      "options": ["Yes", "No"],
+      "correct": 0,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+      "question": "Find the supplement of 86°.",
+      "options": ["74°", "94°", "64°", "176°"],
+      "correct": 1,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+      "question": "In the given figure, identify the angle which is vertically opposite to ∠AOD.",
+      "options": ["∠AOB", "∠BOC", "∠DOC", "∠BOA"],
+      "correct": 1,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+      "question": "What is the measure of the angle that is complementary to a 30° angle?",
+      "options": ["60°", "90°", "120°", "150°"],
+      "correct": 0,
+      "img": "./assests/images/5.jpg"
+  }
+]
